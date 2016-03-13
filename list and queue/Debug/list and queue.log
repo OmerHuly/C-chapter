@@ -1,0 +1,14 @@
+﻿Build started 12/03/2016 20:16:36.
+     1>Project "C:\Users\Omer\Documents\Visual Studio 2012\Projects\list and queue\list and queue\list and queue.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Source.c
+         Source.c
+     1>c:\users\omer\documents\visual studio 2012\projects\list and queue\list and queue\list.h(17): warning C4031: second formal parameter list longer than the first list
+     1>c:\users\omer\documents\visual studio 2012\projects\list and queue\list and queue\source.c(10): warning C4101: 'queue' : unreferenced local variable
+     1>c:\users\omer\documents\visual studio 2012\projects\list and queue\list and queue\list.h(25): error C4700: uninitialized local variable 'list' used
+     1>c:\users\omer\documents\visual studio 2012\projects\list and queue\list and queue\queue.h(20): error C4700: uninitialized local variable 'queue' used
+     1>Done Building Project "C:\Users\Omer\Documents\Visual Studio 2012\Projects\list and queue\list and queue\list and queue.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.98
